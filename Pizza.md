@@ -21,4 +21,4 @@
 -  Precalienta el horno durante 30 minutos
 - Continuamente lleva tu pizza al horno y dejala de 10-15 miun
 -  Retira la pizza del horno. Dejala enfriar un par de minutos
--  ¡Disfrut!
+-  ¡Disfruta!
