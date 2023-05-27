@@ -12,4 +12,4 @@
 - Vemos que el *cofre derecho* nos dice que solo uno tiene tesoros, podemos decir que es mentira, ya que no es posible que solo uno lo tenga porque el *cofre medio* nos dice que todos tienen. 
 - Entonces obtenemos 2 posibles respuestas:  Ningún cofre tiene tesoros 
 - O los dos *cofres derecha e izquierda* tienen tesoros
-- Como respuesta a qué cofres tienen tesoros, suponemos que son más de uno, por lo tanto serían los cofres A y C.
+- ✅Como respuesta a qué cofres tienen tesoros, suponemos que son más de uno, por lo tanto serían los cofres A y C.
