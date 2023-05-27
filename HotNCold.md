@@ -6,6 +6,7 @@
 -  Utilizar la función de °C a °F
 -  (°C *1.8)+32= °F
 -  Resultado de temperatura en °F
+-  Preguntar que temperatura deseo convertir 
 -  Si es de grados Fahrenheit a Celsius
 - Usar la función de °F a °C
 - (°F-32)*.5556= °C
